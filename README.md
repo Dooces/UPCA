@@ -28,14 +28,7 @@
 
 ---
 
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/Dooces/UPCA.git
-cd UPCA
-python main_arc.py
-
-## Abstract of UPCA
+## 🧩 Abstract of UPCA
 
 Abstract
 We present a unified cognitive architecture for Artificial General Intelligence (AGI) rooted in the Free Energy Principle (FEP) and predictive processing. The model introduces three core interactive modules — a Detail Engine, an Abstract/Fantasy Engine, and a Conscience Module — operating within a shared generative Scaffold. Each module minimizes variational free energy within its functional domain while communicating predictive error signals through a structured, hierarchical world model. Critically, the Conscience Module minimizes anticipated ethical prediction error by forecasting normative outcomes over simulated futures. Ethical priors (η) are represented as structured probabilistic graphs within the Scaffold, learned through both imitation and internal error feedback (ϵ 
@@ -386,3 +379,9 @@ This framework represents a significant step towards developing interpretable an
 References
 Friston, K. (2010). The free-energy principle: a unified brain theory?. Nature Reviews Neuroscience, 11(2), 127-138.
 
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/Dooces/UPCA.git
+cd UPCA
+python main_arc.py
